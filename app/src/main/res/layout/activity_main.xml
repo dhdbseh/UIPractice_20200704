@@ -66,7 +66,8 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="공개안함"/>
+            android:enabled="false"
+            android:text="공개 안 함"/>
 
     </RadioGroup>
 
